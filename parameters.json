@@ -86,7 +86,7 @@
             "value": "powershellvm"
         },
         "adminPassword": {
-            "value": null
+            "value": Azure@123456
         },
         "patchMode": {
             "value": "AutomaticByOS"
